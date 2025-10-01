@@ -765,6 +765,9 @@ body {
   .header-dropdown{
     height:700%;
   }
+  .dropdown-header h3{
+  margin-left: 25%;
+ }
 }
 
   
@@ -798,6 +801,9 @@ body {
 .header-dropdown{
   height:700%;
 }
+ .dropdown-header h3{
+  margin-left: 25%;
+ }
  
 }
 
@@ -928,8 +934,8 @@ body {
 /* --- NEW: Responsive Styles for Mobile Chatbot --- */
 @media (max-width: 480px) {
   .chatbot-window {
-    width: calc(100% - 20px); /* Full width with small margins */
-    height: calc(100% - 80px); /* Full height with small margins */
+    width: calc(90% - 20px); /* Full width with small margins */
+    height: calc(90% - 80px); /* Full height with small margins */
     right: 10px;
     bottom: 70px;
   }
@@ -1419,8 +1425,8 @@ body {
     left: 0;
   }
 
-  body {
-    padding-top: 130px; 
+  body:not(:has(.login-page-container)) {
+    padding-top: 130px;
   }
 
   /* 2. Reposition the mobile navigation menu correctly */
