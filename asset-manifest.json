@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuantumCart/static/css/main.161f9c68.css",
+    "main.js": "/QuantumCart/static/js/main.1c53fd3a.js",
+    "static/js/453.670e15c7.chunk.js": "/QuantumCart/static/js/453.670e15c7.chunk.js",
+    "index.html": "/QuantumCart/index.html",
+    "main.161f9c68.css.map": "/QuantumCart/static/css/main.161f9c68.css.map",
+    "main.1c53fd3a.js.map": "/QuantumCart/static/js/main.1c53fd3a.js.map",
+    "453.670e15c7.chunk.js.map": "/QuantumCart/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161f9c68.css",
+    "static/js/main.1c53fd3a.js"
+  ]
+}
