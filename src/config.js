@@ -1,5 +1,5 @@
 // config.js
-export const API_BASE_URL = 'http://127.0.0.1:8000'; // backend link
+export const API_BASE_URL = 'https://backendqcart.onrender.com'; // backend link
 
 // Add the React app base path for GitHub Pages
 export const REACT_BASE_URL = '/QuantumCart';
